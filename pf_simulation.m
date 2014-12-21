@@ -23,7 +23,7 @@ if ~isstruct(ap)
     
     ap.verbose = true;
     
-    ap.test_series = 2;
+    ap.test_series = 7;
     ap.break_on_local_minima = true;
         
     % Show the live map, default: false
@@ -44,7 +44,6 @@ if ~isstruct(ap)
 %     RandStream.setGlobalStream(ap.rng_stream);
 %     RandStream.getGlobalStream()
 end
-
 
 %% Series Test Settings
 if isfield(ap, 'test_series')
