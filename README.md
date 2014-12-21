@@ -1,6 +1,8 @@
 RAVE-Matlab
 ===========
 
+[![DOI](https://zenodo.org/badge/8023/cameronfrazier/RAVE-Matlab.svg)](http://dx.doi.org/10.5281/zenodo.13331)
+
 RAVE Simulator for Matlab
 
 This is the Matlab simulation code associated with the RAVE Algorithm. 
