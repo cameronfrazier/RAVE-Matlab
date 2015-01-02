@@ -1,7 +1,7 @@
 RAVE-Matlab
 ===========
 
-[![DOI](https://zenodo.org/badge/8023/cameronfrazier/RAVE-Matlab.svg)](http://dx.doi.org/10.5281/zenodo.13331)
+[![DOI](https://zenodo.org/badge/8023/cameronfrazier/RAVE-Matlab.svg)](http://dx.doi.org/10.5281/zenodo.13690)
 
 RAVE Simulator for Matlab
 
